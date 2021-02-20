@@ -49,3 +49,6 @@
 *://freetribe.me/*
 *://www.uwenku.com/*
 *://www.centos.bz/*
+*://flyzyblog.com/*
+*://www.lmubbs.com/*
+*://www.ceping.info/*
